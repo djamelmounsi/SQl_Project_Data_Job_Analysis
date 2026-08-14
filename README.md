@@ -55,7 +55,7 @@ Here’s the breakdown of the top Data Scientist jobs in 2023:
 - **Leadership roles dominate:** Head and Director-level positions make up several of the highest-paying jobs, with salaries reaching $351.5K/year.
 - **Specialized senior roles are highly valued:** Distinguished, Principal, and specialized Data Scientist positions reached around $300K/year, highlighting the value of advanced expertise.
 
-![Top Paying Roles]([assets\1_top_paying_roles.png](https://github.com/djamelmounsi/SQl_Project_Data_Job_Analysis/blob/ec5a036db2dfb22a8fbab32fde4e749b2a7636e0/assets/1_top_paying_roles.png))
+![Top Paying Roles](assets\1_top_paying_roles.png)
 *Bar graph visualizing the salary for the top 10 salaries for data scientists; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Top Paying Job Skills
