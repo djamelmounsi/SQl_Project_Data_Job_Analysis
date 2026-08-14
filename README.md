@@ -1,7 +1,7 @@
 # Introduction
 📊 Dive into the data science job market! Focusing on data scientist roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data science.
 
-🔍 SQL queries? Check them out here: [projecy_sql folder](/project_sql/).
+🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/).
 
 # Background
 Designed to demystify the competitive data science job market, this project identifies the most lucrative and highly sought-after skills. By doing so, it simplifies the search process, helping fellow data scientists find their ideal roles faster.
